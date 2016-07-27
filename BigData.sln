@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BigData", "BigData\BigData.vcxproj", "{1D34634B-C096-4B57-9195-BDBCCFDAF19F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeSort", "BigData\BigData.vcxproj", "{1D34634B-C096-4B57-9195-BDBCCFDAF19F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tree", "tree\tree.csproj", "{845251DA-7F49-4E92-ADB3-D4F3D3AFD21C}"
 EndProject

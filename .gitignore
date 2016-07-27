@@ -210,3 +210,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/CreateBigdata/data.txt
+/BitmapSort/sort.txt
+/BitmapSort/data.txt
