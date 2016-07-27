@@ -32,7 +32,7 @@ int main()
 
 	FILE *fp_sort_file = NULL;
 
-	FILE *fp_sort_file2 = NULL;
+	FILE *fp_sort_file3 = NULL;
 	fopen_s(&fp_sort_file, "sort.txt", "w");
 	assert(fp_sort_file);
 	int i;
